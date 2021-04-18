@@ -1,5 +1,5 @@
-# Javascript Calculator
-A calculator app made using Javascript, HTML, and CSS!
+# JavaScript Calculator
+A calculator app made using JavaScript, HTML, and CSS!
 
 [Live Demo](https://hanvdao.github.io/js-calculator/)
 
